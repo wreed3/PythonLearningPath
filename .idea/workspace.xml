@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f7833d1-212b-41d9-9999-bfa8440ac9e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PythonLearningPath.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fizz_buzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hangman_art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hangman_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hangman_logo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hangman_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/password_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rock_paper_scissors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Test_Fizz_Buzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_hangman_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casesar_Cipher/casesar_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casesar_Cipher/cipher_logo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Secret_Auction/secret_auction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Secret_Auction/secret_auction_logo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hangman/hangman_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hangman/hangman_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/casesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +58,11 @@
     "Python tests.Python tests in Test_Fizz_Buzz.py.executor": "Run",
     "Python tests.Python tests in test_hangman_game.py.executor": "Run",
     "Python tests.Unittests in test_hangman_game.py.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.casesar_cipher.executor": "Run",
     "Python.hangman_game.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
+    "Python.secret_auction.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -81,6 +74,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wreed\PycharmProjects\PythonLearningPath\src\Casesar_Cipher" />
+      <recent name="C:\Users\wreed\PycharmProjects\PythonLearningPath\src\Hangman" />
       <recent name="C:\Users\wreed\PycharmProjects\PythonProject1\src" />
     </key>
   </component>
@@ -207,8 +202,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_hangman_game.TestHangmanGame.testUserInputIsLowercase" />
         <item itemvalue="Python tests.Python tests for Rock_Paper_Scissors.TestRockPaperScissors" />
+        <item itemvalue="Python tests.Python tests for test_hangman_game.TestHangmanGame.testUserInputIsLowercase" />
         <item itemvalue="Python tests.Python tests for test_hangman_game.TestHangmanGame.test_generate_an_array_the_length_of_the_random_word" />
         <item itemvalue="Python tests.Python tests for test_hangman_game.TestHangmanGame.test_words_list_not_empty" />
         <item itemvalue="Python tests.Python tests for Test_Rock_Paper_Scissors.TestRockPaperScissors" />
@@ -218,7 +213,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
       </set>
     </attachedChunks>
   </component>
@@ -232,5 +227,28 @@
       <updated>1733779723397</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

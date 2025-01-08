@@ -28,6 +28,7 @@ while restart:
     while not game_over:
 
         guess = user_guess().lower()
+
         while not guess.isalpha():
             guess = input("Please enter a letter?: ").lower()
         display = ""
