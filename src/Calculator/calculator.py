@@ -1,4 +1,7 @@
 import operator
+from calculator_logo import calculator_logo
+
+print(calculator_logo)
 
 def calculate_answer(num1,num2, op):
     return ops[op](num1, num2)

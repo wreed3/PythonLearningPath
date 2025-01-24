@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f7833d1-212b-41d9-9999-bfa8440ac9e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Casesar_Cipher/casesar_cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Casesar_Cipher/cipher_logo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Secret_Auction/secret_auction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Secret_Auction/secret_auction_logo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Black_Jack/black_jack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Black_Jack/black_jack_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Black_Jack/black_jack_logo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator/calculator_logo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coffee_Machine/coffee_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coffee_Machine/coffee_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coffee_Machine/coffee_machine_logo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessingGame/guess_the_number_logo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessingGame/guessing_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Higher_Lower/game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Higher_Lower/higher_lower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Higher_Lower/higher_lower_logo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hangman/hangman_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hangman/hangman_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +35,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -58,9 +68,15 @@
     "Python tests.Python tests in Test_Fizz_Buzz.py.executor": "Run",
     "Python tests.Python tests in test_hangman_game.py.executor": "Run",
     "Python tests.Unittests in test_hangman_game.py.executor": "Run",
+    "Python.black_jack.executor": "Run",
     "Python.calculator.executor": "Run",
+    "Python.calculator_logo.executor": "Run",
     "Python.casesar_cipher.executor": "Run",
+    "Python.coffee_data.executor": "Run",
+    "Python.coffee_machine.executor": "Run",
+    "Python.guessing_game.executor": "Run",
     "Python.hangman_game.executor": "Run",
+    "Python.higher_lower.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.secret_auction.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -69,7 +85,12 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/wreed/PycharmProjects/PythonLearningPath",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.toDoOptions"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -213,7 +234,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
